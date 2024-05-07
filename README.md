@@ -1,5 +1,5 @@
 # GeoTIFF-Based Deforestation Detection
-A Jupyter notebook for detecting deforestation using GeoTIFF satellite images and NDVI analysis with OpenCV.
+A Jupyter notebook for detecting deforestation using GeoTIFF satellite images from Google Earth Engine and NDVI analysis with OpenCV.
 
 ![image](https://github.com/Brandi-Kinard/python-opencv-geoTIFF-deforestation/assets/52756042/97b49188-7c63-4fe2-8d25-ff0abc52e745)
 Source: [Google Earth Engine](https://earthengine.google.com/)
