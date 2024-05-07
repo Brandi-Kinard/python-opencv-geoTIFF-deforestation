@@ -2,7 +2,7 @@
 A Jupyter notebook for detecting deforestation using GeoTIFF satellite images and NDVI analysis with OpenCV.
 
 ![image](https://github.com/Brandi-Kinard/python-opencv-geoTIFF-deforestation/assets/52756042/97b49188-7c63-4fe2-8d25-ff0abc52e745)
-Image of [Google Earth Engine]
+Source: [Google Earth Engine](https://earthengine.google.com/)
 
 
 ## Overview
@@ -27,7 +27,7 @@ This project is more than just code—it's a tool aimed at protecting our natura
 
 Install these packages using pip:
 ```bash
-pip install opencv-python matplotlib ipython numpy
+pip install opencv-python matplotlib ipython gdal
 ```
 
 ## For the Future
